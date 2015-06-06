@@ -1,4 +1,3 @@
-Copy and paste the following data and save as .csv file for data analysis.
 name,name_fr,ISO3166-1-Alpha-2,ISO3166-1-Alpha-3,ISO3166-1-numeric,ITU,MARC,WMO,DS,Dial,FIFA,FIPS,GAUL,IOC,currency_alphabetic_code,currency_country_name,currency_minor_unit,currency_name,currency_numeric_code,is_independent
 Afghanistan,Afghanistan,AF,AFG,004,AFG,af,AF,AFG,93,AFG,AF,1,AFG,AFN,AFGHANISTAN,2,Afghani,971,Yes
 Albania,Albanie,AL,ALB,008,ALB,aa,AB,AL,355,ALB,AL,3,ALB,ALL,ALBANIA,2,Lek,008,Yes
